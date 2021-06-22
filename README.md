@@ -1,4 +1,13 @@
-### Hi there 👋
+# Welcome, to my GitHub profile!
+*I'm Jaime Andrés Gálvez Villamarin, pleased to make your acquaintances.*
+
+I'm an aspiring game and XR developer with a deep passion for the gaming industry.
+
+My interests are as follows:
+- Video Game development
+- XR Experience Development
+  - *Experience* might be a video game, or not.
+- DevOps
 
 <!--
 **JamesPagani/JamesPagani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
